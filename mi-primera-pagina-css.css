@@ -32,7 +32,10 @@ p {
     flex: 100%;
   }
 }
-
+.greeting {
+  text-align: center;
+  }
+  
 .container-nav {
   display: flex;
   padding: 10px;
